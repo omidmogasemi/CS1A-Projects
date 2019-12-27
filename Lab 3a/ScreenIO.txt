@@ -1,0 +1,14 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #3a       : EIE IO
+***************************************
+
+Enter side a length: 3
+Enter side b length: 4.
+Enter side c length: 5.0
+
+The triangle has sides of length 3.00, 4.00 and 5.00.
+The area of this triangle is:        6.00
+The perimeter of this triangle is:  12.00

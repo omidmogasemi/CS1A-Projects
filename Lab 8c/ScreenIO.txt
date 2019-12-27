@@ -1,0 +1,153 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #8c       : MATH ANYONE matrix
+***************************************
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:4
+
+A:
+  1   2 
+  3   4 
+B:
+  5   6 
+  7   8 
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:1
+
+Sum is:
+  6   8 
+ 10  12 
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:2
+
+Difference is:
+ -4  -4 
+ -4  -4 
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:3
+
+Product is:
+ 19  22 
+ 43  50 
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:6
+
+Please enter a number between 1 and 5!
+
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:exit
+
+Please enter an integer value!
+
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:5
+
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #8c       : MATH ANYONE matrix
+***************************************
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:4
+
+A:
+  1   2 
+  3   4 
+  5   6 
+B:
+  1   0   1   1 
+  2   3   4   5 
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:1
+
+
+This operation is not possible for these matrices!
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:2
+
+
+This operation is not possible for these matrices!
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:3
+
+Product is:
+  5   6   9  11 
+ 11  12  19  23 
+ 17  18  29  35 
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Display Matrices
+5. Exit
+Selection:5

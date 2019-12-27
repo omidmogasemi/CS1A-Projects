@@ -1,0 +1,137 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #6b       : STAY IN SHAPE
+***************************************
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 1
+dimension (2-20): 2
+character: ^
+
+^ ^ 
+^ ^ 
+
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 2
+dimension (2-20): 4
+character: ^
+
+^ 
+^ ^ 
+^ ^ ^ 
+^ ^ ^ ^ 
+
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 3
+dimension (2-20): 3
+character: *
+
+  * 
+ * * 
+* * * 
+
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 4
+dimension (2-20): 4
+character: ^
+
+^ ^ ^ ^ 
+ ^ ^ ^ 
+  ^ ^ 
+   ^ 
+    
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 4
+dimension (2-20): 8
+character: V
+
+V V V V V V V V 
+ V V V V V V V 
+  V V V V V V 
+   V V V V V 
+    V V V V 
+     V V V 
+      V V 
+       V 
+        
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 2
+dimension (2-20): 5
+character: L
+
+L 
+L L 
+L L L 
+L L L L 
+L L L L L 
+
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 2
+dimension (2-20): 25
+
+Invalid dimension!
+
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 6
+
+Invalid selection!
+
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: exit
+
+Invalid selection!
+
+Enter your choice of shape:
+1. square
+2. right triangle
+3. pyramid
+4. upside-down pyramid
+5. exit the program
+choice: 5
+

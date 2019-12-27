@@ -1,0 +1,12 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #5b       : SWITCH SWITCH plus
+***************************************
+
+ERROR encountered on line 6
+ILLEGAL operator encountered on line 7
+ERROR encountered on line 12
+ILLEGAL operator encountered on line 15
+ERROR encountered on line 19

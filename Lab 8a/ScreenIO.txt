@@ -1,0 +1,197 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #8a       : HOORAY
+***************************************
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:2
+
+No names to display!
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:1
+
+10 names read from file e:\nameData.txt
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:2
+
+ 1: Joe
+ 2: Sally
+ 3: Joe
+ 4: Sue
+ 5: Sally
+ 6: Adam
+ 7: Joe
+ 8: Adam
+ 9: Adam
+10: Joe
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:3
+
+Sorting in ascending order. . .
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:2
+
+ 1: Adam
+ 2: Adam
+ 3: Adam
+ 4: Joe
+ 5: Joe
+ 6: Joe
+ 7: Joe
+ 8: Sally
+ 9: Sally
+10: Sue
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:4
+
+Sorting in descending order. . .
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:2
+
+ 1: Sue
+ 2: Sally
+ 3: Sally
+ 4: Joe
+ 5: Joe
+ 6: Joe
+ 7: Joe
+ 8: Adam
+ 9: Adam
+10: Adam
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:1
+
+10 names read from file e:\nameData.txt
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:2
+
+ 1: Joe
+ 2: Sally
+ 3: Joe
+ 4: Sue
+ 5: Sally
+ 6: Adam
+ 7: Joe
+ 8: Adam
+ 9: Adam
+10: Joe
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:5
+Enter a name to count: Joe
+
+Name Joe occurs 4 times
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:5
+Enter a name to count: Sue
+
+Name Sue occurs 1 time
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:7
+
+Please enter a number between 1 and 6!
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:exit
+
+Please enter an integer value!
+
+Please select from one of the following options:
+1. Read names from file
+2. Display names
+3. Sort names ascending
+4. Sort names descending
+5. Count name
+6. Exit program
+Selection:6
+
+Thank you for using my name program.

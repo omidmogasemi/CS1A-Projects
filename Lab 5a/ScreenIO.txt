@@ -1,0 +1,55 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #5a       : SWITCH SWITCH
+***************************************
+
+Enter two integers: 10 5
+
+Enter operator: + , - , * , / : +
+
+10 + 5 = 15
+Press ENTER to continue. . .
+
+Enter two integers: 25 35
+
+Enter operator: + , - , * , / : -
+
+25 - 35 = -10
+Press ENTER to continue. . .
+
+Enter two integers: -1 -1
+
+Enter operator: + , - , * , / : *
+
+-1 * -1 = 1
+Press ENTER to continue. . .
+
+Enter two integers: 9 6
+
+Enter operator: + , - , * , / : /
+
+9 / 6 = 1R3
+Press ENTER to continue. . .
+
+Enter two integers: 0 1
+
+Enter operator: + , - , * , / : /
+
+0 / 1 = 0R0
+Press ENTER to continue. . .
+
+Enter two integers: 1 0
+
+Enter operator: + , - , * , / : /
+
+1 / 0 = ERROR
+Press ENTER to continue. . .
+
+Enter two integers: 2 4
+
+Enter operator: + , - , * , / : !
+
+2 ! 4 = ILLEGAL
+Press ENTER to continue. . .

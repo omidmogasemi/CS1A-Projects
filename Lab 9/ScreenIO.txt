@@ -1,0 +1,17 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #9        : MATH ANYONE records
+***************************************
+Last Name      First Name     StudentID Answers                % Score Grade
+Black          Jack           ABC123    TFTFTFTTTTFTFTFFTTF_      95.0     A
+DeGeneres      Ellen          DOZ003    TFTFTFTTTTFFFFFFFFFF      62.5     D
+Murphy         Eddy           AAB000    TFTTTFTTTT_TFTFFT_FT      82.5     B
+Seinfeld       Jerry          ZZT090    TTTFFFTTTFFFTTTFFF__      30.0     F
+Streep         Meryl          DDC123    _FTFTFTTTTFTFTFFTTFT      95.0     A
+
+
+Min score is  30.0% for Student ID ZZT090
+Max score is  95.0% for Student ID ABC123
+Average   is  73.0%

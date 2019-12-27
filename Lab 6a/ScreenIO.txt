@@ -1,0 +1,87 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #6a       : FLIP FLOP
+***************************************
+Welcome to coin toss! Get 3 heads in a row to win!
+
+What is your name?           Big Shot
+What is your gender(M/F)?    M
+
+Try to get 3 heads in a row. Good luck Mr. Big Shot!
+
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+TAILs
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+HEADs
+It took you 5 tosses to get 3 heads in a row.
+On average you flipped heads 80% of the time.
+
+
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #6a       : FLIP FLOP
+***************************************
+Welcome to coin toss! Get 3 heads in a row to win!
+
+What is your name?           Ima Lucky
+What is your gender(M/F)?    f
+
+Try to get 3 heads in a row. Good luck Ms. Ima Lucky!
+
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+TAILs
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+TAILs
+Press <Enter> to flip
+TAILs
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+HEADs
+It took you 10 tosses to get 3 heads in a row.
+On average you flipped heads 70% of the time.
+
+
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #6a       : FLIP FLOP
+***************************************
+Welcome to coin toss! Get 3 heads in a row to win!
+
+What is your name?           Two Left Thumbs
+What is your gender(M/F)?    X
+What is your gender(M/F)?    y
+What is your gender(M/F)?    m
+
+Try to get 3 heads in a row. Good luck Mr. Two Left Thumbs!
+
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+HEADs
+Press <Enter> to flip
+HEADs
+It took you 3 tosses to get 3 heads in a row.
+On average you flipped heads 100% of the time.

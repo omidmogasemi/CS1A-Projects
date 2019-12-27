@@ -1,0 +1,20 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #4b       : IF ONLY package
+***************************************
+
+Please input six package weights on separate lines: 
+2
+35
+12
+1
+17
+4
+
+2 packages 2 lbs. or less
+2 packages between 3 - 12 lbs.
+1 package between 13 - 20 lbs.
+1 package between 21 - 40 lbs.
+The total shipping price is $57.50

@@ -1,0 +1,17 @@
+***************************************
+* PROGRAMMED BY : Omid Mogasemi
+* CLASS         : CS1A
+* SECTION       : MTWTh: 10:00a - 1:35p
+* LAB #8b       : MATH ANYONE
+***************************************
+StudentID Answers                % Score Grade
+ABC123    TFTFTFTTTTFTFTFFTTF_      95.0     A
+AAB000    TFTTTFTTTT_TFTFFT_FT      82.5     B
+ZZT090    TTTFFFTTTFFFTTTFFF__      30.0     F
+DOZ003    TFTFTFTTTTFFFFFFFFFF      62.5     D
+DDC123    _FTFTFTTTTFTFTFFTTFT      95.0     A
+
+
+Min score is  30.0% for Student ID ZZT090
+Max score is  95.0% for Student ID ABC123
+Average   is  73.0%
